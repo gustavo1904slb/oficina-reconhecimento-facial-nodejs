@@ -50,6 +50,7 @@
             return Promise.all(
                 labels.map(async label => {
                     const descriptions = [];
+                    // alterar quando for necessário e quando tiver mais fotos de cada aluno / ex: se tiver 5 fotos, alterar para i <= 5
                     for (let i = 1; i <= 1; i++) {
                         const img =
                             await faceapi.fetchImage(
