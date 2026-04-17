@@ -2,3 +2,7 @@
 CodeSpace
 
 PASS supabase-> 5jFH1JvPuMUvMSnW
+
+APU URL-> https://whfzhkdwlzwohydavgge.supabase.co
+
+anon public-> eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndoZnpoa2R3bHp3b2h5ZGF2Z2dlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY0MTY5ODYsImV4cCI6MjA5MTk5Mjk4Nn0.fk2WJ-8x5j49KdtV50CJQsNNNdSiP-XQ9JhsMyBsXCg
